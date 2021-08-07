@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Row, Col, Button, Input, Modal, ModalBody, Label, Table } from "reactstrap";
+import { Row, Col, Button, Input, Modal, ModalBody, Table } from "reactstrap";
 import axios from 'axios'
 
 
